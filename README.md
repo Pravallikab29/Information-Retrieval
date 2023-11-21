@@ -1,1 +1,1 @@
-Performed text preprocessing including tokenization, stop words removal, stemming, tf-idf calculation, and pairwise cosine similarity calculation using NLTK to identify similarity between documents.
+Performed text preprocessing including tokenization, stop words removal, stemming, tf-idf calculation, and pairwise cosine similarity calculation using NLTK to identify similarity between documents. Three documents are used in this project to find similarity between the documents.
