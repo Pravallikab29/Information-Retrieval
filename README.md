@@ -1,3 +1,1 @@
-Information-Retrieval
-In this repository, I will add the projects related to information retrieval
-Document similarity to find the similarity between the documents by using cosine similarity
+Performed text preprocessing including tokenization, stop words removal, stemming, tf-idf calculation, and pairwise cosine similarity calculation using NLTK to identify similarity between documents.
